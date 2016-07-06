@@ -25,7 +25,7 @@ nav ul {
     clear: right;
     background-color: #666;
     padding-left: 4px;
-    height: 24px;
+    height: 30px;
 }
 
 nav ul li {
@@ -53,4 +53,12 @@ footer p {
     font-size: 12px;
     color: #888;
     margin-top: 24px;
+}
+
+.feed {
+	font-size: 10pt;
+}
+.title{
+	text-decoration:underline;
+	font-size: 15pt;
 }
